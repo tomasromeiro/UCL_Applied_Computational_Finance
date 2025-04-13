@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains a single C++ file — `final_test.cpp` — that implements various finite difference methods to price options. The program was developed as part of the assessment for the Applied Computational Finance course and is designed to showcase proficiency in numerical methods, algorithm design, and computational finance.
+This repository contains a single C++ file — `test_final.cpp` — that implements various finite difference methods to price options. The program was developed as part of the assessment for the Applied Computational Finance course and is designed to showcase proficiency in numerical methods, algorithm design, and computational finance.
 
 The application implements multiple numerical schemes for solving the option pricing problem via backward-marching finite difference methods:
 - **Explicit Scheme**
